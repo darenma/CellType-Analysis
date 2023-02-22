@@ -11,7 +11,8 @@ The goal of this research project is to explore the internal relationships of __
 
 We consider this as a graph problem: Among the brain, there are many different Region of Interests (ROIs). In the mouse brain research, we split the brain into 424 ROIs following the mouse Common Coordinate Framework (CCF). Then we obtain regional densities that could be used as input features in our machine learning approach. In this way, the brain connectivity network is translated into a graph with 424 nodes connected by many edges. For each node, there are 25 node features representing the density of each cell type.
 
-
+## Reading:
+https://www.nature.com/articles/s41467-021-24306-2
 
 
 ## Recommended steps of working on this project: 
