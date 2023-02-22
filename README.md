@@ -38,4 +38,4 @@ We consider this as a graph problem: Among the brain, there are many different R
 
 
 ## Weekly Meeting: 
-9:30 PST (11:30 CT) every Wednesday.
+10: 00 PST (12:00 CT) every Wednesday.
