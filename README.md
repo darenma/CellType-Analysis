@@ -3,14 +3,14 @@
 
 The goal of this research project is to explore the internal relationships of __brain cell types__ and __connectivity__. We aim at two things in major: finding a robust way to predict connectivity using cell type densities in mouse brain; transferring the findings to human brain.
 
-Overview: 
+## Overview: 
 
 We consider this as a graph problem: Among the brain, there are many different Region of Interests (ROIs). In the mouse brain research, we split the brain into 424 ROIs following the mouse Common Coordinate Framework (CCF). Then we obtain regional densities that could be used as input features in our machine learning approach. In this way, the brain connectivity network is translated into a graph with 424 nodes connected by many edges. For each node, there are 25 node features representing the density of each cell type.
 
 
 
 
-Here are the recommended steps of working on this project: 
+## Recommended steps of working on this project: 
 
 
 1. Read the paper preprint pdf provided in this repo. You don't have to understand every bit of it. However, it's crucial to have a general understanding of the problem as well as the metadata. The original paper addressed that the existence of connectivity between nodes (namely the connection of ROIs) rely on the densities of cell types in those ROIs. We will explore further on this basis.
@@ -30,4 +30,5 @@ Here are the recommended steps of working on this project:
 
 
 
-Weekly Meeting: 9:30 PST (11:30 CT) every Wednesday.
+## Weekly Meeting: 
+9:30 PST (11:30 CT) every Wednesday.
