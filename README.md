@@ -25,8 +25,11 @@ We consider this as a graph problem: Among the brain, there are many different R
 4. Understand the dataset. Play with it a bit. Learn the definition of graph attributes and run some customized analysis.  
 
 
-
-
+## Required Techniques: 
+- Git & GitHub
+- Jupyter Notebook
+- Numpy, Pandas
+- Scikit-Learn or other Machine Learning packages
 
 
 
