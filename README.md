@@ -36,6 +36,8 @@ https://www.nature.com/articles/s41467-021-24306-2
 - Numpy, Pandas
 - Scikit-Learn or other Machine Learning packages
 
+## Justin's Notes:
+"""Not to interrupt here, because this is a detail question, but given comments we got back on the first manuscript, it’s worth mentioning here - I think we should use the “supertypes” as predictors for Tasic and Zeisel because the problem will have too many predictors for Zeisel which is the more important one. Want to make a note here before I forget."""
 
 
 ## Weekly Meeting: 
