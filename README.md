@@ -1,7 +1,11 @@
 # Node-level Associations Between Cell Types And Connectivity
 
 
-The goal of this research project is to explore the internal relationships of __brain cell types__ and __connectivity__. We aim at two things in major: finding a robust way to predict connectivity using cell type densities in mouse brain; transferring the findings to human brain.
+The goal of this research project is to explore the internal relationships of __brain cell types__ and __connectivity__. We aim at two things in major: 
+
+1. Finding a robust way to predict structural connectivity using cell type densities in mouse brain
+
+2. Transferring the findings to human brain.
 
 ## Overview: 
 
