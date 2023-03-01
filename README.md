@@ -1,13 +1,18 @@
 # Node-level Associations Between Cell Types And Connectivity
 
 
-The goal of this research project is to explore the internal relationships of __brain cell types__ and __connectivity__. We aim at two things in major: finding a robust way to predict connectivity using cell type densities in mouse brain; transferring the findings to human brain.
+The goal of this research project is to explore the internal relationships of __brain cell types__ and __connectivity__. We aim at two things in major: 
+
+1. Finding a robust way to predict structural connectivity using cell type densities in mouse brain
+
+2. Transferring the findings to human brain.
 
 ## Overview: 
 
 We consider this as a graph problem: Among the brain, there are many different Region of Interests (ROIs). In the mouse brain research, we split the brain into 424 ROIs following the mouse Common Coordinate Framework (CCF). Then we obtain regional densities that could be used as input features in our machine learning approach. In this way, the brain connectivity network is translated into a graph with 424 nodes connected by many edges. For each node, there are 25 node features representing the density of each cell type.
 
-
+## Reading:
+https://www.nature.com/articles/s41467-021-24306-2
 
 
 ## Recommended steps of working on this project: 
@@ -25,10 +30,15 @@ We consider this as a graph problem: Among the brain, there are many different R
 4. Understand the dataset. Play with it a bit. Learn the definition of graph attributes and run some customized analysis.  
 
 
+## Required Techniques: 
+- Git & GitHub
+- Jupyter Notebook
+- Numpy, Pandas
+- Scikit-Learn or other Machine Learning packages
 
-
-
+## Justin's Notes:
+"""Not to interrupt here, because this is a detail question, but given comments we got back on the first manuscript, it’s worth mentioning here - I think we should use the “supertypes” as predictors for Tasic and Zeisel because the problem will have too many predictors for Zeisel which is the more important one. Want to make a note here before I forget."""
 
 
 ## Weekly Meeting: 
-9:30 PST (11:30 CT) every Wednesday.
+10: 00 PST (12:00 CT) every Wednesday.
